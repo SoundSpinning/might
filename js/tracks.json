@@ -1,0 +1,111 @@
+{ "tabs": [
+    {
+    "n_tab":1,
+    "tabTit": "4-letter words",
+    "name": "nav-m1",
+    "title": "Demos 2008-2012",
+    "text": " : Early days, learning home rec &amp; production. No idea what we were doing, but loads fun &amp; beer.",
+    "active": "",
+    "collapse": "collapse show",
+    "tabId": "",
+    "tracks": [
+      {
+        "trackId":1,
+        "name": "Pole",
+        "year": " (2012)",
+        "file": "MIGHT - Pole.mp3"
+      },
+      {
+        "trackId":2,
+        "name": "Kind",
+        "year": " (2012)",
+        "file": "MIGHT - Kind.mp3"
+      },
+      {
+        "trackId":3,
+        "name": "Fate",
+        "year": " (2012)",
+        "file": "MIGHT - Fate.mp3"
+      },
+      {
+        "trackId":4,
+        "name": "2min",
+        "year": " (2012)",
+        "file": "MIGHT - 2min.mp3"
+      },
+      {
+        "trackId":5,
+        "name": "Safe",
+        "year": " (2012)",
+        "file": "MIGHT - Safe.mp3"
+      }
+    ]
+    },
+    {
+      "n_tab":2,
+      "tabTit": "Sunday Nite",
+      "name": "nav-m2",
+      "title": "Sunday Night EP (2014)",
+      "text": " : The open mic days, acoustic guitars with distortion. Fun times playing 100s of open mics around Brighton.",
+      "active": "",
+      "collapse": "collapse show",
+      "tabId": "",
+      "tracks": [
+        {
+          "trackId":1,
+          "name": "Tool",
+          "year": " (2014)",
+          "file": "MIGHT - Tool.mp3"
+        },
+        {
+          "trackId":2,
+          "name": "Help",
+          "year": " (2014)",
+          "file": "MIGHT - Help.mp3"
+        },
+        {
+          "trackId":3,
+          "name": "Sunday Night",
+          "year": " (2014)",
+          "file": "MIGHT - Sunday Night.mp3"
+        }
+      ]
+      },
+      {
+        "n_tab":3,
+        "tabTit": "Procrastination",
+        "name": "nav-m3",
+        "title": "Procrastination EP (2018)",
+        "text": " : Rock songs, still home recorded; the more distorion days.",
+        "active": "show active",
+        "collapse": "collapse",
+        "tabId": "Tracks",
+        "tracks": [
+          {
+            "trackId":1,
+            "name": "Orb",
+            "year": " (2018)",
+            "file": "Might - Procrastination - 01 ORB.mp3"
+          },
+          {
+            "trackId":2,
+            "name": "Call",
+            "year": " (2018)",
+            "file": "Might - Procrastination - 02 CALL.mp3"
+          },
+          {
+            "trackId":3,
+            "name": "Them",
+            "year": " (2018)",
+            "file": "Might - Procrastination - 03 THEM.mp3"
+          },
+          {
+            "trackId":4,
+            "name": "Doer",
+            "year": " (2018)",
+            "file": "Might - Procrastination - 04 DOER.mp3"
+          }
+        ]
+        }
+  ]
+}
