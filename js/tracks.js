@@ -56,7 +56,7 @@
                   </div>
                 </div>`;
             tabsIndex.innerHTML +=
-            `<a class="nav-link btn-link" id="nav-feedback-tab" data-bs-toggle="tab" href="#nav-feedback" role="tab" aria-controls="nav-feedback" aria-selected="false">Feedback</a>`;
+            `<a class="nav-link btn-link" id="nav-feedback-tab" data-bs-toggle="tab" href="#nav-feedback" role="tab" aria-controls="nav-feedback" aria-selected="false">Hi</a>`;
         })
         .catch(error => console.error("Error fetching JSON data:", error));
 // });
