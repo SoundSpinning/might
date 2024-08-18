@@ -11,8 +11,8 @@ Small music web app for artists/bands to follow mixing/mastering featuring:
 * Artwork
 * Contact
 * Download link [ if applicable ]
-* Feedback form
+* Feedback form [ 'Hi' tab ]
 
-<a href="https://soundspinning.github.io/might/"><img src="./assets/Music-Badge-sm.jpg" alt="MIGHT Music Badge"></a>
+<a href="https://soundspinning.github.io/might/"><img src="./assets/media/music_badge.jpg" alt="MIGHT Music Badge"></a>
 
 ---
